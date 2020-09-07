@@ -1,0 +1,15 @@
+# Install [EditorConfig for VS Code](https://marketplace.visualstudio.com/items?itemName=EditorConfig.EditorConfig)
+[*]
+indent_style = space
+indent_size = 2
+insert_final_newline = true
+trim_trailing_whitespace = true
+
+[*.{cs,js}]
+indent_size = 2
+
+[*.json]
+indent_size = 2
+
+[*.md]
+indent_size = 2

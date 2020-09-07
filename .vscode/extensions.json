@@ -1,0 +1,20 @@
+{
+  "recommendations": [
+    "ms-vscode.vscode-typescript-tslint-plugin",
+    "anseki.vscode-color",
+    "DavidAnson.vscode-markdownlint",
+    "dbaeumer.vscode-eslint",
+    "donjayamanne.githistory",
+    "eamodio.gitlens",
+    "EditorConfig.EditorConfig",
+    "esbenp.prettier-vscode",
+    "glen-84.sass-lint",
+    "mikestead.dotenv",
+    "ms-azuretools.vscode-docker",
+    "MS-CEINTL.vscode-language-pack-es",
+    "ms-vscode.vscode-typescript-tslint-plugin",
+    "msjsdiag.debugger-for-chrome",
+    "stevencl.addDocComments",
+    "mtxr.sqltools"
+  ]
+}
